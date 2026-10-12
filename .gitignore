@@ -1,0 +1,17 @@
+# compiled binaries and build output
+/bin/
+*.exe
+*.test
+*.out
+
+# editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# runtime data and logs (NOVA will generate these later)
+*.log
+*.wal
+/data/
